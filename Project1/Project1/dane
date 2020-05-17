@@ -1,0 +1,26 @@
+1
+size 11
+add 27 A
+add 38 B
+add 116 C
+add 161 D
+add 96 E
+print
+delete 27
+print
+delete 96
+delete 116
+delete 38
+print
+delete 161
+add 373 K
+add 230 L
+print
+delete 373
+print
+add 361 M
+add 119 N
+print
+delete 361
+print
+stop
